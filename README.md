@@ -16,7 +16,7 @@ In this project, I used:
 1. I downloaded an Ecommerce dataset from [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data).  
 2. I uploaded the data into **Google BigQuery**.  
 3. I wrote SQL queries to analyze the data (queries are in the `BigQuery_sql/` folder).  
-4. I used Python (Pandas) to clean and transform the data (code is in `python_etl/`).  
+4. I used Python (Pandas) to clean and transform the data (code is in `Pandas_notebook/`).  
 5. I saved the cleaned data as a CSV file.  
 6. I built an interactive dashboard in **Power BI** using this cleaned data.  
 7. I shared all the files in this GitHub repo for others to view.
